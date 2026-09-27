@@ -140,4 +140,81 @@ Project Structure
                    ▼
             Visualizations
 
+📈 Analysis Areas
 
+RidePulse covers multiple areas of data analytics:
+
+📊 Booking Analysis
+Total bookings
+Booking status
+Completed rides
+Cancelled rides
+💰 Revenue Analysis
+Booking value
+Total booking value
+Average booking value
+Monthly booking-value trends
+🚕 Vehicle Analysis
+Vehicle booking volume
+Vehicle booking value
+Average booking value
+Ride distance
+Vehicle ranking
+❌ Cancellation Analysis
+Cancellation rate
+Customer cancellations
+Driver cancellations
+Customer cancellation reasons
+💳 Payment Analysis
+Payment method distribution
+Booking value by payment method
+Average booking value by payment method
+⭐ Rating Analysis
+Customer ratings
+Driver ratings
+💡 Business Questions
+
+The project answers practical business questions such as:
+
+How many rides are completed successfully?
+What percentage of bookings are cancelled?
+What is the overall booking value?
+How does booking value vary across vehicle types?
+What are the major customer cancellation reasons?
+Which payment methods contribute to booking value?
+How does ride distance vary between vehicle types?
+Which vehicle categories have high booking volumes?
+How does booking value change over time?
+How can vehicle types be ranked based on total booking value?
+
+📄 Project Report
+
+A detailed PowerPoint presentation is included in the repository.
+
+The presentation covers:
+
+Project overview
+Problem statement
+Dataset
+Technology stack
+Data preparation
+Exploratory analysis
+SQL business analysis
+Python–MySQL integration
+Business analysis dimensions
+Project structure
+Key takeaways
+👨‍💻 Project Type
+
+End-to-End Data Analytics Portfolio Project
+
+Built Using
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
+MySQL
+SQL
+mysql-connector-python
